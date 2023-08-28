@@ -28,3 +28,21 @@
     left: 48.5%;
     top: 28%;
 }
+.min
+{
+    background: black;
+    height: 32%;
+    width: 2%;
+    position: absolute;
+    left: 49%;
+    top: 16%;
+}
+.sec
+{
+    background: red;
+    height: 40%;
+    width: 1%;
+    position: absolute;
+    left: 49.5%;
+    top: 15%;
+}

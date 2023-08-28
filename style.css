@@ -65,11 +65,11 @@
 }
 .min_hand
 {
-    animation: rotate 3600s infinite;
+    animation: rotate 3600s infinite steps(60);
 }
 .sec_hand
 {
-    animation: rotate 60s infinite;
+    animation: rotate 60s infinite steps(60);
 }
 @keyframes rotate
 {
